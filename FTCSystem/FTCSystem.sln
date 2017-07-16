@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTCBL", "FTCBL\FTCBL.csproj", "{B8ED8477-206E-43B6-BB11-EA579ADD3D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFTC", "UnitTestFTC\UnitTestFTC.csproj", "{97B244D1-3A05-4582-BC3D-FEF651AE55B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8ED8477-206E-43B6-BB11-EA579ADD3D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ED8477-206E-43B6-BB11-EA579ADD3D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ED8477-206E-43B6-BB11-EA579ADD3D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ED8477-206E-43B6-BB11-EA579ADD3D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B244D1-3A05-4582-BC3D-FEF651AE55B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B244D1-3A05-4582-BC3D-FEF651AE55B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B244D1-3A05-4582-BC3D-FEF651AE55B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B244D1-3A05-4582-BC3D-FEF651AE55B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
